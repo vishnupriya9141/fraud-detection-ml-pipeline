@@ -101,7 +101,8 @@ Assignment/
 
 1. **Clone the repository**
    ```bash
-   cd Assignment
+   cd fraud-detection-ml-pipeline
+
    ```
 
 2. **Create a virtual environment (optional but recommended)**
