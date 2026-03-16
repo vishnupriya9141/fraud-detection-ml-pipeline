@@ -1,0 +1,6 @@
+data/
+logs/
+*.csv
+*.log
+*.pkl
+.vscode/
